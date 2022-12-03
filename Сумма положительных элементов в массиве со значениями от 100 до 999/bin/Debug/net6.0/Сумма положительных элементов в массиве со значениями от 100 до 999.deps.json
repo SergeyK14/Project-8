@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Сумма положительных элементов в массиве со значениями от 100 до 999/1.0.0": {
+        "runtime": {
+          "Сумма положительных элементов в массиве со значениями от 100 до 999.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Сумма положительных элементов в массиве со значениями от 100 до 999/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
