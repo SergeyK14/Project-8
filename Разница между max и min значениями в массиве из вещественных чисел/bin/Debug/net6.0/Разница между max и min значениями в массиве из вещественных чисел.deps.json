@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Разница между max и min значениями в массиве из вещественных чисел/1.0.0": {
+        "runtime": {
+          "Разница между max и min значениями в массиве из вещественных чисел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Разница между max и min значениями в массиве из вещественных чисел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
